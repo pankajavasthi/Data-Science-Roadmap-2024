@@ -1,5 +1,4 @@
-# Perfect Roadmap To Learn Data Science In 2024 [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/N7RU6W4hAMI) This is really Important to Track
-
+# Perfect Roadmap To Learn Data Science In 2024 [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/N7RU6W4hAMI) This is really Important to Track We have to make changesvdvvvvdvd
 ## Work Of Data Scientist?
 ![Capture](https://user-images.githubusercontent.com/20041231/211718743-d6604ff7-8828-422b-9b60-ec156cdaf054.JPG)
 
